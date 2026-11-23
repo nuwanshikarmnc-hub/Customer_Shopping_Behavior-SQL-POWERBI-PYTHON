@@ -37,7 +37,7 @@ This project analyzes transactional records from **3,900 retail purchases** to u
 ---
 
 ## 📈 Dashboard
-![Customer Behavior Dashboard]
+
 <img width="1178" height="677" alt="image" src="https://github.com/user-attachments/assets/4538593c-2258-40b4-b76e-4a7064dff5a2" />
 
 ---
